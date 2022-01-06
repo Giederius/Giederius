@@ -1,15 +1,15 @@
 - 👋 Hi, I’m @Giederius
-- 👀 I’m interested in working with web and app development
-- 🌱 I’m currently learning front end development
+- 👀 I’m currently working as Junior Android Developer
+- 🌱 I’m still learning the basics and more advanced techniques
  
-What I've learned so far:
-- 💪🏻 HTML, CSS, SCSS, Javascript
+What I've dabbled with so far:
+- 💪🏻 HTML, CSS, SCSS, Javascript, React, Flutter
   
 What I'm learning now:
-- 🤙 Tailwind Css, React.js
+- 🤙 Kotlin
 
 What I want to learn next:
-- 🤞 Node.js, mySQL and so much more! 
+- 🤞 mySQL, Swift & Relearn Flutter to play around with my own Ideas and small projects
 
 <!---
 Giederius/Giederius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
