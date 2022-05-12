@@ -9,7 +9,7 @@ What I'm learning now:
 - 🤙 Kotlin
 
 What I want to learn next:
-- 🤞 mySQL, Swift & Relearn Flutter to play around with my own Ideas and small projects
+- 🤞 Swift & Flutter to play around with my own Ideas and small projects
 
 <!---
 Giederius/Giederius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
